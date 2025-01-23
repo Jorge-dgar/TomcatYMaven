@@ -133,6 +133,11 @@ Guarda este archivo en el directorio raíz de tu proyecto.
 ---
 
 ## **6. Capturas de pantalla**
+
+### Tomcat Operativo:
+![Tomcat](https://github.com/user-attachments/assets/19f8f071-c6e8-4efe-9c2a-638f4b43e892)
+
+
 ### Rock-Paper-Scissors desplegado:
 ![codigo añadido al pow piedra papel tijera](https://github.com/user-attachments/assets/eaae38ca-e1a4-4bea-9d0f-f082fd4f7c48)
 
