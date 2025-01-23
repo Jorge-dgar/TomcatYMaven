@@ -180,12 +180,15 @@ Guarda este archivo en el directorio raíz de tu proyecto.
 
 ### **6. Capturas de pantalla**
 1. **Estado de Tomcat activo:**
-   ![Tomcat](https://github.com/user-attachments/assets/tomcat-active.png)
+![tomcat](https://github.com/user-attachments/assets/ca3ed6e3-98dc-4b83-82a8-d6c5500cb75a)
+
 
 2. **Rock-Paper-Scissors desplegado:**
-   ![Rock-Paper-Scissors](https://github.com/user-attachments/assets/rock-paper-scissors.png)
+![codigo añadido al pow piedra papel tijera](https://github.com/user-attachments/assets/9884f03b-29a6-4429-b30a-ef03908c1dc0)
+
 
 3. **Proyecto Maven generado desplegado:**
-   ![tomcat-war](https://github.com/user-attachments/assets/tomcat-war.png)
+![comprobacion-funciona](https://github.com/user-attachments/assets/c88e3193-826f-47cc-8924-b23aed79954f)
+
 
 ---
